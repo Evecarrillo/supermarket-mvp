@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Supermarker.mvp._Repositories
 {
- 
-        internal class BaseRepository
-        {
-            protected string connectionString;
-        }
-    
+
+    internal class BaseRepository
+    {
+        protected string connectionString;
+    }
 }

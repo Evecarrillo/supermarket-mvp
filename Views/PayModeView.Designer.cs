@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            Button BtnSearch;
             panel1 = new Panel();
             pictureBox1 = new PictureBox();
             label1 = new Label();
@@ -38,7 +39,6 @@
             BtnEdit = new Button();
             BtnNew = new Button();
             DgPayMode = new DataGridView();
-            BtnSearch = new Button();
             TxtSearch = new TextBox();
             label2 = new Label();
             tabPagePayModeDetail = new TabPage();
@@ -50,6 +50,7 @@
             label5 = new Label();
             label4 = new Label();
             label3 = new Label();
+            BtnSearch = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             tabControl1.SuspendLayout();
@@ -57,6 +58,16 @@
             ((System.ComponentModel.ISupportInitialize)DgPayMode).BeginInit();
             tabPagePayModeDetail.SuspendLayout();
             SuspendLayout();
+            // 
+            // BtnSearch
+            // 
+            BtnSearch.Image = Properties.Resources.search_small;
+            BtnSearch.Location = new Point(428, 13);
+            BtnSearch.Name = "BtnSearch";
+            BtnSearch.Size = new Size(75, 44);
+            BtnSearch.TabIndex = 2;
+            BtnSearch.UseVisualStyleBackColor = true;
+            BtnSearch.Click += BtnSearch_Click;
             // 
             // panel1
             // 
@@ -164,15 +175,6 @@
             DgPayMode.ReadOnly = true;
             DgPayMode.Size = new Size(495, 226);
             DgPayMode.TabIndex = 3;
-            // 
-            // BtnSearch
-            // 
-            BtnSearch.Image = Properties.Resources.search_small;
-            BtnSearch.Location = new Point(428, 13);
-            BtnSearch.Name = "BtnSearch";
-            BtnSearch.Size = new Size(75, 44);
-            BtnSearch.TabIndex = 2;
-            BtnSearch.UseVisualStyleBackColor = true;
             // 
             // TxtSearch
             // 

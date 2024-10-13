@@ -17,7 +17,6 @@ namespace Supermarker.mvp.Views
         bool IsSuccessful { get; set; }
         string Message { get; set; }
 
-
         event EventHandler SearchEvent;
         event EventHandler AddNewEvent;
         event EventHandler EditEvent;
@@ -26,7 +25,6 @@ namespace Supermarker.mvp.Views
         event EventHandler CancelEvent;
 
         void SetPayModeListBildingSource(BindingSource payModeList);
-
         void Show();
 
     }
