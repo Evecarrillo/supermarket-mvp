@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Supermarker.mvp._Repositories;
+using Supermarker.mvp.Models;
+using Supermarker.mvp.Presenters;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -44,10 +47,7 @@ namespace Supermarker.mvp.Views
         public event EventHandler CancelEvent;
         public event EventHandler EditEvent;
 
-        public void SetPayModeListBildingSource(BindingSource payModeList)
-        {
-            DgPayMode.DataSource = payModeList;
-        }
+
 
         public string PayModeId
         {
@@ -88,11 +88,37 @@ namespace Supermarker.mvp.Views
             get { return message; }
             set { message = value; }
         }
+        public void SetPayModeListBildingSource(BindingSource payModeList)
+        {
+            DgPayMode.DataSource = payModeList;
+        }
+        private static PayModeView instance;
+        
+
+        private static PayModeView GetInstance()
+        {
+            if (instance == null || instance.IsDisposed)
+            {
+                instance = new PayModeView();
+            }
+            else
+            {
+                if (instance.WindowState == FormWindowState.Minimized)
+                {
+                    instance.WindowState = FormWindowState.Normal;
+                }
+                instance.BringToFront();
+            }
+            return instance;
+        }
+        
+    }
+
     }
     
     
 
 
 
-}
+
 
