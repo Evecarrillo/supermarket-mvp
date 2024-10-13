@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +15,32 @@
       "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B53F18E-0ACB-417B-82D8-B6EC487E7656}|Supermarker.mvp.csproj|c:\\users\\evelyn carrillo\\source\\repos\\supermarker.mvp\\views\\ipaymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,23 +70,87 @@
       "DocumentGroups": [
         {
           "DockedHeight": 543,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PayModeView.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "PayModeView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
-              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\PayModeView.cs [Design]",
-              "RelativeToolTip": "Views\\PayModeView.cs [Design]",
+              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\PayModeView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\PayModeView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T05:12:53.348Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayModeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\_Repositories\\PayModeRepository.cs",
+              "RelativeDocumentMoniker": "_Repositories\\PayModeRepository.cs",
+              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\_Repositories\\PayModeRepository.cs",
+              "RelativeToolTip": "_Repositories\\PayModeRepository.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwHUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:25:55.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\IMainView.cs",
+              "RelativeDocumentMoniker": "Views\\IMainView.cs",
+              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\IMainView.cs",
+              "RelativeToolTip": "Views\\IMainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:36:56.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\MainView.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Views\\MainView.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:05:28.02Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\MainView.cs*",
+              "RelativeToolTip": "Views\\MainView.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:39:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Presenters\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Presenters\\MainPresenter.cs",
+              "RelativeToolTip": "Presenters\\MainPresenter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:29:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PayModeView.cs",
               "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
@@ -99,31 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Presenters\\MainPresenter.cs",
-              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
-              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Presenters\\MainPresenter.cs",
-              "RelativeToolTip": "Presenters\\MainPresenter.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:29:07.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PayModeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\_Repositories\\PayModeRepository.cs",
-              "RelativeDocumentMoniker": "_Repositories\\PayModeRepository.cs",
-              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\_Repositories\\PayModeRepository.cs",
-              "RelativeToolTip": "_Repositories\\PayModeRepository.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAYwHUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:25:55.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -135,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PayModePresenter.cs",
               "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Presenters\\PayModePresenter.cs",
               "RelativeDocumentMoniker": "Presenters\\PayModePresenter.cs",
@@ -147,20 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainView.cs",
-              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\MainView.cs",
-              "RelativeDocumentMoniker": "Views\\MainView.cs",
-              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\MainView.cs",
-              "RelativeToolTip": "Views\\MainView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:39:56.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -169,29 +196,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-10-13T17:49:39.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IMainView.cs",
-              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\IMainView.cs",
-              "RelativeDocumentMoniker": "Views\\IMainView.cs",
-              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\IMainView.cs",
-              "RelativeToolTip": "Views\\IMainView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:36:56.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainView.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\MainView.cs",
-              "RelativeDocumentMoniker": "Views\\MainView.cs",
-              "ToolTip": "C:\\Users\\EVELYN CARRILLO\\source\\repos\\Supermarker.mvp\\Views\\MainView.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\MainView.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T19:05:28.02Z"
             },
             {
               "$type": "Document",

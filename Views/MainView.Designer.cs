@@ -66,7 +66,7 @@
             BtnPayMode.BackgroundImageLayout = ImageLayout.Zoom;
             BtnPayMode.Location = new Point(3, 101);
             BtnPayMode.Name = "BtnPayMode";
-            BtnPayMode.Size = new Size(184, 115);
+            BtnPayMode.Size = new Size(184, 73);
             BtnPayMode.TabIndex = 1;
             BtnPayMode.UseVisualStyleBackColor = true;
             // 
