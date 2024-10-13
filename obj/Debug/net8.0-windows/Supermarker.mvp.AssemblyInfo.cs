@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Supermarker.mvp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72e250ba91dcc543cb0732b6ab6de533fb7f0c6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10cb1c07a7dfa1ef14bbdd75321e784c83c2cbf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Supermarker.mvp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Supermarker.mvp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
